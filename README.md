@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=120&text=Ohjeongyeop&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경력사항 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경력 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 24.03 ~ 24.08 자바 국비지원 과정 수료 </div> 
     </div>
     <div align= "center">
